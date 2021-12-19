@@ -63,7 +63,7 @@ public class Main
 			
 		
 		}
-		flag = false;
+		//flag = false;
 		sc.close();
 	}
 		
